@@ -25,8 +25,8 @@ This is a QR code component challenge on Frontend Mentor. The challenge is to bu
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://sahil21dev.github.io/QR/)
-- Live Site URL: [Add live site URL here](https://sahil21dev.github.io/QR/)
+- Solution URL: [Click here](https://sahil21dev.github.io/QR/)
+- Live Site URL: [Click here](https://sahil21dev.github.io/QR/)
 
 ## My process
 
